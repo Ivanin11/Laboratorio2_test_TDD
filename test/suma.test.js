@@ -1,3 +1,4 @@
+//Test de la función suma
 const suma = require("../src/suma");
 
 describe("test de la operación suma", () => {
