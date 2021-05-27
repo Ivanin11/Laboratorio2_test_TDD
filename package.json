@@ -1,0 +1,26 @@
+{
+  "name": "Laboratorio2_test_TDD",
+  "version": "1.0.0",
+  "description": "Desarrollo dirigido por pruebas en un proyecto sencillo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivanin11/Laboratorio2_test_TDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivanin11/Laboratorio2_test_TDD/issues"
+  },
+  "homepage": "https://github.com/Ivanin11/Laboratorio2_test_TDD#readme",
+  "dependencies": {
+    "jest": "^27.0.1"
+  }
+}
